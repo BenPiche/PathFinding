@@ -1,0 +1,16 @@
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\PathFinding.exe
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\PathFinding.deps.json
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\PathFinding.runtimeconfig.json
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\PathFinding.runtimeconfig.dev.json
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\PathFinding.dll
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\ref\PathFinding.dll
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\bin\Debug\net5.0\PathFinding.pdb
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.csproj.AssemblyReference.cache
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.AssemblyInfoInputs.cache
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.AssemblyInfo.cs
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.csproj.CoreCompileInputs.cache
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.dll
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\ref\PathFinding.dll
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.pdb
+C:\Users\benpi\Desktop\SESSION 5\Unity\PathFinding\obj\Debug\net5.0\PathFinding.genruntimeconfig.cache
